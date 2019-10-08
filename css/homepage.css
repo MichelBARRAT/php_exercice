@@ -1,7 +1,10 @@
 body {
-  padding-top: 56px;
+  padding-top: 50px;
+  background-image: url("../image/background.jpg");
   }
-h2 {
-  padding-top: 15px;
+p{
+  padding-top: 25px;
 }
-  
+footer {
+  margin-top: 50px;
+  }

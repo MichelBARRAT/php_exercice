@@ -10,7 +10,7 @@ $itemService = new ItemService(new ItemDbProvider());
 
 echo View::render(
   "templates/catalog/toplist.php",
-  ["items" => $itemService->findTop()]
+  ["items" => $itemService->findActiv()]
 );
 
 

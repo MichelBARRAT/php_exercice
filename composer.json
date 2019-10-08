@@ -1,7 +1,7 @@
 {
     "name": "hoc_exercice/php",
     "require": {},
-    
+
     "autoload": {
         "psr-4": {
             "App\\": "src/"
